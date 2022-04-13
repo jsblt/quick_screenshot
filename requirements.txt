@@ -1,0 +1,2 @@
+pyxhook==1.0.0
+pyscreenshot==3.0
